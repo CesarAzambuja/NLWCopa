@@ -24,7 +24,7 @@ Aplicação para craição e gestão de Bolões esportivos!
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/CesarAzambuja/NLWCopa.git
 ```
 
 Entre no diretório do projeto
